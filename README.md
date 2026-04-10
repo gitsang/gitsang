@@ -55,7 +55,7 @@
 </tr></table>
 </div>
 
-### AI Coding
+### Agentic
 
 #### Chat App Bridge
 
@@ -65,19 +65,11 @@
 </tr></table>
 </div>
 
-#### Opencode
+#### Opencode Plugin
 
 <div align="center">
 <table><tr>
 <td align="center" width="300"><a href="https://github.com/gitsang/opencode-webhook-notify"><img src="https://opengraph.githubassets.com/1/gitsang/opencode-webhook-notify" /></a></td>
-</tr></table>
-</div>
-
-#### NeoVim
-
-<div align="center">
-<table><tr>
-<td align="center" width="300"><a href="https://github.com/gitsang/codock.nvim"><img src="https://opengraph.githubassets.com/1/gitsang/codock.nvim" /></a></td>
 </tr></table>
 </div>
 
