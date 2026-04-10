@@ -1,10 +1,6 @@
-# Sang
-
 <div align="center">
 
 ![github-profile-summary-cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gitsang&theme=default)
-
-</div>
 
 ## Repo
 
@@ -12,70 +8,55 @@
 
 #### Terminal
 
-<div align="center">
 <table><tr>
 <td align="center" width="300"><a href="https://github.com/gitsang/codock.nvim"><img src="https://opengraph.githubassets.com/1/gitsang/codock.nvim" /></a></td>
 <td align="center" width="300"><a href="https://github.com/gitsang/trzsz.nvim"><img src="https://opengraph.githubassets.com/1/gitsang/trzsz.nvim" /></a></td>
 </tr></table>
-</div>
 
 #### Markdown
 
-<div align="center">
 <table><tr>
 <td align="center" width="300"><a href="https://github.com/gitsang/markdown-title-numbering.nvim"><img src="https://opengraph.githubassets.com/1/gitsang/markdown-title-numbering.nvim" /></a></td>
 <td align="center" width="300"><a href="https://github.com/gitsang/markdown-front-matter.nvim"><img src="https://opengraph.githubassets.com/1/gitsang/markdown-front-matter.nvim" /></a></td>
 <td align="center" width="300"><a href="https://github.com/gitsang/markdown-preview.nvim"><img src="https://opengraph.githubassets.com/1/gitsang/markdown-preview.nvim" /></a></td>
 </tr></table>
-</div>
 
 #### Formater
 
-<div align="center">
 <table><tr>
 <td align="center" width="300"><a href="https://github.com/gitsang/vim-case-converter"><img src="https://opengraph.githubassets.com/1/gitsang/vim-case-converter" /></a></td>
 </tr></table>
-</div>
 
 #### Configs
 
-<div align="center">
 <table><tr>
 <td align="center" width="300"><a href="https://github.com/gitsang/lazyvim"><img src="https://opengraph.githubassets.com/1/gitsang/lazyvim" /></a></td>
 </tr></table>
-</div>
 
 ### Golang Kits
 
-<div align="center">
 <table><tr>
 <td align="center" width="300"><a href="https://github.com/gitsang/logi"><img src="https://opengraph.githubassets.com/1/gitsang/logi" /></a></td>
 <td align="center" width="300"><a href="https://github.com/gitsang/configer"><img src="https://opengraph.githubassets.com/1/gitsang/configer" /></a></td>
 <td align="center" width="300"><a href="https://github.com/gitsang/defaults"><img src="https://opengraph.githubassets.com/1/gitsang/defaults" /></a></td>
 </tr></table>
-</div>
 
 ### Agentic
 
 #### Chat App Bridge
 
-<div align="center">
 <table><tr>
 <td align="center" width="300"><a href="https://github.com/gitsang/agent-bridge"><img src="https://opengraph.githubassets.com/1/gitsang/agent-bridge" /></a></td>
 </tr></table>
-</div>
 
 #### Opencode Plugin
 
-<div align="center">
 <table><tr>
 <td align="center" width="300"><a href="https://github.com/gitsang/opencode-webhook-notify"><img src="https://opengraph.githubassets.com/1/gitsang/opencode-webhook-notify" /></a></td>
 </tr></table>
-</div>
 
 ### Hardware
 
-<div align="center">
 <table><tr>
 <td align="center" width="300"><a href="https://github.com/gitsang/r8125-dkms"><img src="https://opengraph.githubassets.com/1/gitsang/r8125-dkms" /></a></td>
 <td align="center" width="300"><a href="https://github.com/gitsang/esp32-load-monitor"><img src="https://opengraph.githubassets.com/1/gitsang/esp32-load-monitor" /></a></td>
@@ -85,20 +66,16 @@
 <td align="center" width="300"><a href="https://github.com/gitsang/esp32cam-aliyun"><img src="https://opengraph.githubassets.com/1/gitsang/esp32cam-aliyun" /></a></td>
 <td></td>
 </tr></table>
-</div>
 
 ### PromoxVE
 
-<div align="center">
 <table><tr>
 <td align="center" width="300"><a href="https://github.com/gitsang/pve-pcie-netfix"><img src="https://opengraph.githubassets.com/1/gitsang/pve-pcie-netfix" /></a></td>
 <td align="center" width="300"><a href="https://github.com/gitsang/lxc-iptag"><img src="https://opengraph.githubassets.com/1/gitsang/lxc-iptag" /></a></td>
 </tr></table>
-</div>
 
 ### Container
 
-<div align="center">
 <table><tr>
 <td align="center" width="300"><a href="https://github.com/gitsang/docker-browser-vnc"><img src="https://opengraph.githubassets.com/1/gitsang/docker-browser-vnc" /></a></td>
 <td align="center" width="300"><a href="https://github.com/gitsang/creality-print-docker"><img src="https://opengraph.githubassets.com/1/gitsang/creality-print-docker" /></a></td>
@@ -107,22 +84,19 @@
 <td align="center" width="300"><a href="https://github.com/gitsang/steam-dedicated-server-docker"><img src="https://opengraph.githubassets.com/1/gitsang/steam-dedicated-server-docker" /></a></td>
 <td></td><td></td>
 </tr></table>
-</div>
 
 ### Application
 
-<div align="center">
 <table><tr>
 <td align="center" width="300"><a href="https://github.com/gitsang/goldendict-llm"><img src="https://opengraph.githubassets.com/1/gitsang/goldendict-llm" /></a></td>
 <td align="center" width="300"><a href="https://github.com/gitsang/pt-auto-login"><img src="https://opengraph.githubassets.com/1/gitsang/pt-auto-login" /></a></td>
 </tr></table>
-</div>
 
 ### Scripts
 
-<div align="center">
 <table><tr>
 <td align="center" width="300"><a href="https://github.com/gitsang/zhihu-block"><img src="https://opengraph.githubassets.com/1/gitsang/zhihu-block" /></a></td>
 <td align="center" width="300"><a href="https://github.com/gitsang/tampermonkey"><img src="https://opengraph.githubassets.com/1/gitsang/tampermonkey" /></a></td>
 </tr></table>
+
 </div>
